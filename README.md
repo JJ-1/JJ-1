@@ -1,12 +1,12 @@
-![Git Header](https://i.imgur.com/Y35RxGd.png "Git Header")
+![Git Header](https://i.imgur.com/U09ngvv.png "Git Header")
+
+<h3 align="left">Connect with me:</h3>
 
 👨‍💻 All of my projects are available at [jj1.dev](https://jj1.dev/projects)
 
 📫 [Email](mailto:jamiejarrettjj@gmail.com)
 
 📄  [Resume](https://pdfhost.io/v/tX3WcB63e_Resume_Jamie_Jarrett.pdf)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jamiejarrettjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamiejarrettjj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamiejarrettjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamiejarrettjj" height="30" width="40" /></a>
