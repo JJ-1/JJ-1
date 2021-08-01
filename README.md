@@ -1,8 +1,5 @@
 ![Git Header](https://i.imgur.com/Y35RxGd.png "Git Header")
 
-<h1 align="center">Hi 👋, I'm Jamie</h1>
-<h3 align="center">A passionate full-stack developer from the UK</h3>
-
 👨‍💻 All of my projects are available at [jj1.dev](https://jj1.dev/projects)
 
 📫 [Email](mailto:jamiejarrettjj@gmail.com)
