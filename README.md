@@ -6,7 +6,7 @@
 
 📫 [Email](mailto:jamiejarrettjj@gmail.com)
 
-📄  [Resume](https://pdfhost.io/v/tX3WcB63e_Resume_Jamie_Jarrett.pdf)
+📄  [Resume](https://jj1.dev/pdf/Resume-Jamie-Jarrett.pdf)
 <p align="left">
 <a href="https://twitter.com/jamiejarrettjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamiejarrettjj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamiejarrettjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamiejarrettjj" height="30" width="40" /></a>
