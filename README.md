@@ -4,7 +4,7 @@
 
 👨‍💻 All of my projects are available at [jj1.dev](https://jj1.dev/projects)
 
-📫 [Email](mailto:jamiejarrettjj@gmail.com)
+📫 [Email](mailto:jamie@jj1.dev)
 
 📄  [Resume](https://jj1.dev/pdf/Resume-Jamie-Jarrett.pdf)
 <p align="left">
